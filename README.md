@@ -12,6 +12,6 @@ What is a backtracking algorithm in Java?
 2 - https://www.quora.com/What-is-a-backtracking-algorithm-in-Java
 
 
-Channel of Youtube about Recursion and Backtracking in various languages
+Channel of Youtube about Recursion and Backtracking in various languages of programing
 
 3 - https://www.youtube.com/playlist?list=PLQ7ZAf76c0ZMzC9OHPbo-dUgx6oU3T0jK

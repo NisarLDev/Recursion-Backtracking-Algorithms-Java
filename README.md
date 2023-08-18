@@ -59,6 +59,6 @@ https://algo.monster/problems/backtracking
 
 https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1186/lectures/10-RecursiveBacktracking2/10-RecursiveBacktracking2.pdf
 
-Backtracking without Recursion Vilnius University, Olympiads in informatics, 2021.
+15 - Backtracking without Recursion Vilnius University, Olympiads in informatics, 2021.
 
-14 -https://ioinformatics.org/journal/v15_2021_119_132.pdf
+https://ioinformatics.org/journal/v15_2021_119_132.pdf

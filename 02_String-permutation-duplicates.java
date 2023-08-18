@@ -14,7 +14,7 @@ class Solution {
     Arrays.sort(arr);
     String str = new String(arr);
 
-    List<String> list =new ArrayList<>();
+    List<String> list = new ArrayList<>();
     dfs(str, "", list);
     return list;
   }

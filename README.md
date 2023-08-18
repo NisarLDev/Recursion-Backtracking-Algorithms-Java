@@ -68,3 +68,9 @@ https://ioinformatics.org/journal/v15_2021_119_132.pdf
 https://javabypatel.blogspot.com/2017/07/n-queens-problem-in-java-backtracking.html
 
 17 - Backtracking. University of Ilinois.
+
+https://jeffe.cs.illinois.edu/teaching/algorithms/book/02-backtracking.pdf
+
+18 - The Backtracking Blueprint
+
+https://backtobackswe.com/platform/content/the-backtracking-blueprint

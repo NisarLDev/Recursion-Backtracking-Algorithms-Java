@@ -42,3 +42,7 @@ Divide and Conquer Algorithm
 Backtracking LeetCode Pattern: Permutations vs Subsets in Java
 
 10 - https://hackernoon.com/backtracking-leetcode-pattern-permutations-vs-subsets-in-java
+
+Backtracking with big inputs
+
+11 - https://softwareengineering.stackexchange.com/questions/389233/backtracking-with-big-inputs

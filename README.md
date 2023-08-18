@@ -27,14 +27,13 @@ https://www.youtube.com/watch?v=Ocu3T3yXoQw
 
 https://www.tutorialspoint.com/introduction-to-backtracking
 
-
 7 - Backtracking algorithm explainded
 
 https://www.worldofitech.com/backtracking-algorithm/
 
-Depth First Search (DFS) explainded in various programing languages
+8 - Depth First Search (DFS) explainded in various programing languages
 
-8 - https://www.worldofitech.com/depth-first-search/
+https://www.worldofitech.com/depth-first-search/
 
 Divide and Conquer Algorithm
 

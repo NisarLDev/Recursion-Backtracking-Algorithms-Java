@@ -46,3 +46,7 @@ Backtracking LeetCode Pattern: Permutations vs Subsets in Java
 Backtracking with big inputs
 
 11 - https://softwareengineering.stackexchange.com/questions/389233/backtracking-with-big-inputs
+
+Backtracking: Practice Problems amd Interview Questions
+
+https://medium.com/techie-delight/backtracking-practice-problems-and-interview-questions-6a17cb6d08a7

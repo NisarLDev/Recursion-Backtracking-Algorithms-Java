@@ -47,7 +47,7 @@ https://hackernoon.com/backtracking-leetcode-pattern-permutations-vs-subsets-in-
 
 https://softwareengineering.stackexchange.com/questions/389233/backtracking-with-big-inputs
 
-Backtracking: Practice Problems amd Interview Questions
+12 - Backtracking: Practice Problems amd Interview Questions
 
 https://medium.com/techie-delight/backtracking-practice-problems-and-interview-questions-6a17cb6d08a7
 

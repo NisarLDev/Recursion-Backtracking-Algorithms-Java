@@ -1,5 +1,5 @@
 class Solution {
-  public static void dfs(String str, String, perm, List<String> list) {
+  public static void dfs(String str, String perm, List<String> list) {
     if (str.length() == 0) {
       list.add(perm);
     }

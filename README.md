@@ -27,9 +27,10 @@ https://www.youtube.com/watch?v=Ocu3T3yXoQw
 
 https://www.tutorialspoint.com/introduction-to-backtracking
 
-Backtracking algorithm explainded
 
-7 - https://www.worldofitech.com/backtracking-algorithm/
+7 - Backtracking algorithm explainded
+
+https://www.worldofitech.com/backtracking-algorithm/
 
 Depth First Search (DFS) explainded in various programing languages
 

@@ -7,13 +7,15 @@ public class Main {
         }
         for (int i = 0; i < str.length(); i++) {
             char ch = str.charAt(i); // current character
+            String tmp = str.substring(0, i) + str.substring(i + 1);
+            dfs(tmp, perm + ch, list);
         }
     }
     public static void main(String[] args) {
         String str = "abc";
-        List<String> lst = new ArrayList<>();
+        List<String> list = new ArrayList<>();
         dfs(str, "", list);
-        for (String s :list) {
+        for (String s : list) {
             System.out.println(s);
         }
     }

@@ -6,7 +6,9 @@ class Solution {
     Set<Character> set = new HashSet<>();
     for (int i = 0; i < str.length(); i++) {
       char ch = str.charAt(i);
-      if ()
+      if (!set.contains(ch)) {
+          String tmp = 
+      }
     }
   }
   public List<String> find_permutation(String S) {

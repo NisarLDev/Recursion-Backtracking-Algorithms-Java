@@ -50,3 +50,7 @@ Backtracking with big inputs
 Backtracking: Practice Problems amd Interview Questions
 
 https://medium.com/techie-delight/backtracking-practice-problems-and-interview-questions-6a17cb6d08a7
+
+Backtracking Template
+
+12 - https://algo.monster/problems/backtracking

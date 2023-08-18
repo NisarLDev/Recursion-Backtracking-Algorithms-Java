@@ -3,25 +3,25 @@
 
 Bilbiography:
 
-Backtracking in Java with code examples
+1 - Backtracking in Java with code examples
 
-1 - https://dev.to/nikhilesh2601/backtracking-in-java-3la0
+      https://dev.to/nikhilesh2601/backtracking-in-java-3la0
 
-What is a backtracking algorithm in Java?
+2 - What is a backtracking algorithm in Java?
 
-2 - https://www.quora.com/What-is-a-backtracking-algorithm-in-Java
+      https://www.quora.com/What-is-a-backtracking-algorithm-in-Java
 
-Youtube channel about Recursion and Backtracking in various programing languages, in Hindi language
+3 - Youtube channel about Recursion and Backtracking in various programing languages, in Hindi language
 
-3 - https://www.youtube.com/playlist?list=PLQ7ZAf76c0ZMzC9OHPbo-dUgx6oU3T0jK
+      https://www.youtube.com/playlist?list=PLQ7ZAf76c0ZMzC9OHPbo-dUgx6oU3T0jK
 
-Youtube video about Backtracking and NQueens problem in Java programing languages, in Hindi language
+4 - Youtube video about Backtracking and NQueens problem in Java programing languages, in Hindi language
 
-4 - https://www.youtube.com/watch?v=bRs6E_SL2Tk
+      https://www.youtube.com/watch?v=bRs6E_SL2Tk
 
-Youtube video Master Backtracking in Recursion With Kartik Mathur | Coding Blocks in English and Hindi
+5 - Youtube video Master Backtracking in Recursion With Kartik Mathur | Coding Blocks in English and Hindi
 
-5 - https://www.youtube.com/watch?v=Ocu3T3yXoQw
+      https://www.youtube.com/watch?v=Ocu3T3yXoQw
 
 Introduction to Backtracking
 
@@ -54,3 +54,11 @@ https://medium.com/techie-delight/backtracking-practice-problems-and-interview-q
 Backtracking Template
 
 12 - https://algo.monster/problems/backtracking
+
+Recursive Backtracking Stanford University
+
+13 - https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1186/lectures/10-RecursiveBacktracking2/10-RecursiveBacktracking2.pdf
+
+Backtracking without Recursion Vilnius University, Olympiads in informatics, 2021.
+
+14 -https://ioinformatics.org/journal/v15_2021_119_132.pdf

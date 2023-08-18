@@ -35,9 +35,9 @@ https://www.worldofitech.com/backtracking-algorithm/
 
 https://www.worldofitech.com/depth-first-search/
 
-Divide and Conquer Algorithm
+9 - Divide and Conquer Algorithm
 
-9 - https://www.worldofitech.com/divide-and-conquer/
+https://www.worldofitech.com/divide-and-conquer/
 
 Backtracking LeetCode Pattern: Permutations vs Subsets in Java
 

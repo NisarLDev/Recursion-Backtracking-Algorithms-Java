@@ -19,3 +19,7 @@ Youtube channel about Recursion and Backtracking in various programing languages
 Youtube video about Backtracking and NQueens problem in Java programing languages, in Hindi language
 
 4 - https://www.youtube.com/watch?v=bRs6E_SL2Tk
+
+Youtube video Master Backtracking in Recursion With Kartik Mathur | Coding Blocks in English and Hindi
+
+5 - https://www.youtube.com/watch?v=Ocu3T3yXoQw

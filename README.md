@@ -55,9 +55,9 @@ https://medium.com/techie-delight/backtracking-practice-problems-and-interview-q
 
 https://algo.monster/problems/backtracking
 
-Recursive Backtracking Stanford University
+14 - Recursive Backtracking Stanford University
 
-13 - https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1186/lectures/10-RecursiveBacktracking2/10-RecursiveBacktracking2.pdf
+https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1186/lectures/10-RecursiveBacktracking2/10-RecursiveBacktracking2.pdf
 
 Backtracking without Recursion Vilnius University, Olympiads in informatics, 2021.
 

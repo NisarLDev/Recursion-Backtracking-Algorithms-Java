@@ -38,3 +38,7 @@ Depth First Search (DFS) explainded in various programing languages
 Divide and Conquer Algorithm
 
 9 - https://www.worldofitech.com/divide-and-conquer/
+
+Backtracking LeetCode Pattern: Permutations vs Subsets in Java
+
+10 - https://hackernoon.com/backtracking-leetcode-pattern-permutations-vs-subsets-in-java

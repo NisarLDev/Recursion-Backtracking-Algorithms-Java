@@ -62,3 +62,5 @@ https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1186/lectures/10-Recursi
 15 - Backtracking without Recursion Vilnius University, Olympiads in informatics, 2021.
 
 https://ioinformatics.org/journal/v15_2021_119_132.pdf
+
+16 - https://javabypatel.blogspot.com/2017/07/n-queens-problem-in-java-backtracking.html

@@ -23,9 +23,9 @@ https://www.youtube.com/watch?v=bRs6E_SL2Tk
 
 https://www.youtube.com/watch?v=Ocu3T3yXoQw
 
-Introduction to Backtracking
+6 - Introduction to Backtracking
 
-6 - https://www.tutorialspoint.com/introduction-to-backtracking
+https://www.tutorialspoint.com/introduction-to-backtracking
 
 Backtracking algorithm explainded
 

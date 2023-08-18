@@ -43,9 +43,9 @@ https://www.worldofitech.com/divide-and-conquer/
 
 https://hackernoon.com/backtracking-leetcode-pattern-permutations-vs-subsets-in-java
 
-Backtracking with big inputs
+11 - Backtracking with big inputs
 
-11 - https://softwareengineering.stackexchange.com/questions/389233/backtracking-with-big-inputs
+https://softwareengineering.stackexchange.com/questions/389233/backtracking-with-big-inputs
 
 Backtracking: Practice Problems amd Interview Questions
 

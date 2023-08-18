@@ -7,8 +7,10 @@ class Solution {
     for (int i = 0; i < str.length(); i++) {
       char ch = str.charAt(i);
       if (!set.contains(ch)) {
-          String tmp = 
+          String tmp = str.substring(0, i) + str.substring(i + 1);
+          dfs(tmp, perm + ch, list);
       }
+      set.add(ch);
     }
   }
   public List<String> find_permutation(String S) {

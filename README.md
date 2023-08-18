@@ -11,7 +11,6 @@ What is a backtracking algorithm in Java?
 
 2 - https://www.quora.com/What-is-a-backtracking-algorithm-in-Java
 
-
 Youtube channel about Recursion and Backtracking in various programing languages, in Hindi language
 
 3 - https://www.youtube.com/playlist?list=PLQ7ZAf76c0ZMzC9OHPbo-dUgx6oU3T0jK
@@ -23,3 +22,19 @@ Youtube video about Backtracking and NQueens problem in Java programing language
 Youtube video Master Backtracking in Recursion With Kartik Mathur | Coding Blocks in English and Hindi
 
 5 - https://www.youtube.com/watch?v=Ocu3T3yXoQw
+
+Introduction to Backtracking
+
+6 - https://www.tutorialspoint.com/introduction-to-backtracking
+
+Backtracking algorithm explainded
+
+7 - https://www.worldofitech.com/backtracking-algorithm/
+
+Depth First Search (DFS) explainded in various programing languages
+
+8 - https://www.worldofitech.com/depth-first-search/
+
+Divide and Conquer Algorithm
+
+9 - https://www.worldofitech.com/divide-and-conquer/

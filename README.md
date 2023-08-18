@@ -39,9 +39,9 @@ https://www.worldofitech.com/depth-first-search/
 
 https://www.worldofitech.com/divide-and-conquer/
 
-Backtracking LeetCode Pattern: Permutations vs Subsets in Java
+10 - Backtracking LeetCode Pattern: Permutations vs Subsets in Java
 
-10 - https://hackernoon.com/backtracking-leetcode-pattern-permutations-vs-subsets-in-java
+https://hackernoon.com/backtracking-leetcode-pattern-permutations-vs-subsets-in-java
 
 Backtracking with big inputs
 

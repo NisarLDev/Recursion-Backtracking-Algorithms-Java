@@ -10,6 +10,8 @@ class Solution {
                 perm.add(key);
                 map.put(key, map.get(key) - 1);
                 dfs(list, map, perm, n);
+                perm.remove(perm.size() - 1);
+                map.put(key, map.get(key) + 1);
             }
         }
     }

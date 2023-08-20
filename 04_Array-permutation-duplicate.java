@@ -5,7 +5,7 @@ class Solution {
         List<List<Integer>> list = new ArrayList<>();
         HashMap<Integer, Integer> map = new HashMap<>();
         for(int num : nums) {
-            map.put(num, map.getOrDefault(um, 0) + 1);
+            map.put(num, map.getOrDefault(num, 0) + 1);
         }
     }
   

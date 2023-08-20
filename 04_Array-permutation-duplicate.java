@@ -2,7 +2,9 @@
 
 class Solution {
     public static void dfs(List<List<Integer>>, HashMap<Integer,Integer> map, List<Integer> perm, int n) {
-        
+        if (perm.size() == n) {
+            list.add(new ArrayList<>(perm));
+        }
     }
     
     public List<List<Integer>> permuteUnique(int[] nums) {

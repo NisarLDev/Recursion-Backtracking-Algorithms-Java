@@ -7,6 +7,8 @@ class Solution {
         for (int num : nums) {
             map.put(num, map.getOrDefault(num, 0) + 1);
         }
+        dfs(list,map new ArrayList<>(), nums.length);
+        return list;
     }
   
 }

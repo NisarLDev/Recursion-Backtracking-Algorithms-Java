@@ -1,7 +1,7 @@
 // This programe use Hashmap data structure instead of Hashset data structure 
 
 class Solution {
-    public static void dfs(List<List<Integer>>, HashMap<Integer,Integer> map, List<Integer> perm, int n) {
+    public static void dfs(List<List<Integer>> list, HashMap<Integer, Integer> map, List<Integer> perm, int n) {
         if (perm.size() == n) {
             list.add(new ArrayList<>(perm));
         }

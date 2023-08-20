@@ -16,14 +16,12 @@ class Solution {
         }
     }
     public List<List<Integer>> permuteUnique(int[] nums) {
-        Arrays.sort(nums);
         List<List<Integer>> list = new ArrayList<>();
         HashMap<Integer, Integer> map = new HashMap<>();
         for (int num : nums) {
             map.put(num, map.getOrDefault(num, 0) + 1);
         }
-        dfs(list,map new ArrayList<>(), nums.length);
+        dfs(list, map, new ArrayList<>(), nums.length);
         return list;
     }
-  
-}
+} // Time Complexity of the algorithm is O(n * n!) and the Space Complexity is O(n).

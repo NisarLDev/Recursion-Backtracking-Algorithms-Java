@@ -5,8 +5,12 @@ class Solution {
         if (perm.size() == n) {
             list.add(new ArrayList<>(perm));
         }
+        for (Integer key : map.keySet()) {
+            if (map.get(key) > 0) {
+                
+            }
+        }
     }
-    
     public List<List<Integer>> permuteUnique(int[] nums) {
         List<List<Integer>> list = new ArrayList<>();
         HashMap<Integer, Integer> map = new HashMap<>();

@@ -4,7 +4,9 @@ class Solution {
     public List<List<Integer>> permuteUnique(int[] nums) {
         List<List<Integer>> list = new ArrayList<>();
         HashMap<Integer, Integer> map = new HashMap<>();
-        for()
+        for(int num : nums) {
+            map.put(num, map.getOrDefault(um, 0) + 1);
+        }
     }
   
 }

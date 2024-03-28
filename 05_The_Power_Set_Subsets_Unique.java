@@ -9,7 +9,8 @@ class Solution{
   }
   public List<List<Integer>> subsets(int[] nums) {
     List<List<Integer>> list = new ArrayList<>();
-    
+    dfs(nums, list, new ArrayList<>(), 0);
+    return list;
   }
 } // O(n * 2^n)
-//  This challenge is available at Leetcode
+//  This challenge is available at Leetcode. Number 78. Subsets.

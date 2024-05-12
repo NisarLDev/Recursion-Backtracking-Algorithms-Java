@@ -1,4 +1,4 @@
-## Recursion-Backtracking-Algorithms-Java
+## Recursion Backtracking Algorithms Java
 
 
 ### Bilbiography

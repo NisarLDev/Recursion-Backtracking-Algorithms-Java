@@ -5,7 +5,7 @@ These types of algorithms are the basic elements of AI.
 
 ### Bilbiography
 
-1 - Backtracking in Java with code examples
+1 - Backtracking in Java with code examples.
 
 https://dev.to/nikhilesh2601/backtracking-in-java-3la0
 
@@ -13,51 +13,51 @@ https://dev.to/nikhilesh2601/backtracking-in-java-3la0
 
 https://www.quora.com/What-is-a-backtracking-algorithm-in-Java
 
-3 - Youtube channel about Recursion and Backtracking in various programing languages, in Hindi language
+3 - Youtube channel about Recursion and Backtracking in various programing languages, in Hindi language.
 
 https://www.youtube.com/playlist?list=PLQ7ZAf76c0ZMzC9OHPbo-dUgx6oU3T0jK
 
-4 - Youtube video about Backtracking and NQueens problem in Java programing languages, in Hindi language
+4 - Youtube video about Backtracking and NQueens problem in Java programing languages, in Hindi language.
 
 https://www.youtube.com/watch?v=bRs6E_SL2Tk
 
-5 - Youtube video Master Backtracking in Recursion With Kartik Mathur | Coding Blocks in English and Hindi
+5 - Youtube video Master Backtracking in Recursion With Kartik Mathur | Coding Blocks in English and Hindi.
 
 https://www.youtube.com/watch?v=Ocu3T3yXoQw
 
-6 - Introduction to Backtracking
+6 - Introduction to Backtracking.
 
 https://www.tutorialspoint.com/introduction-to-backtracking
 
-7 - Backtracking algorithm explainded
+7 - Backtracking algorithm explainded.
 
 https://www.worldofitech.com/backtracking-algorithm/
 
-8 - Depth First Search (DFS) explainded in various programing languages
+8 - Depth First Search (DFS) explainded in various programing languages.
 
 https://www.worldofitech.com/depth-first-search/
 
-9 - Divide and Conquer Algorithm
+9 - Divide and Conquer Algorithm.
 
 https://www.worldofitech.com/divide-and-conquer/
 
-10 - Backtracking LeetCode Pattern: Permutations vs Subsets in Java
+10 - Backtracking LeetCode Pattern: Permutations vs Subsets in Java.
 
 https://hackernoon.com/backtracking-leetcode-pattern-permutations-vs-subsets-in-java
 
-11 - Backtracking with big inputs
+11 - Backtracking with big inputs.
 
 https://softwareengineering.stackexchange.com/questions/389233/backtracking-with-big-inputs
 
-12 - Backtracking: Practice Problems amd Interview Questions
+12 - Backtracking: Practice Problems amd Interview Questions.
 
 https://medium.com/techie-delight/backtracking-practice-problems-and-interview-questions-6a17cb6d08a7
 
-13 - Backtracking Template
+13 - Backtracking Template.
 
 https://algo.monster/problems/backtracking
 
-14 - Recursive Backtracking Stanford University
+14 - Recursive Backtracking Stanford University.
 
 https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1186/lectures/10-RecursiveBacktracking2/10-RecursiveBacktracking2.pdf
 
@@ -65,7 +65,7 @@ https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1186/lectures/10-Recursi
 
 https://ioinformatics.org/journal/v15_2021_119_132.pdf
 
-16 - N Queens Problem in Java - Backtracking
+16 - N Queens Problem in Java - Backtracking.
 
 https://javabypatel.blogspot.com/2017/07/n-queens-problem-in-java-backtracking.html
 

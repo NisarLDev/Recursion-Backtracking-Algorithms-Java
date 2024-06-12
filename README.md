@@ -17,7 +17,7 @@ https://www.quora.com/What-is-a-backtracking-algorithm-in-Java
 
 https://www.youtube.com/playlist?list=PLQ7ZAf76c0ZMzC9OHPbo-dUgx6oU3T0jK
 
-4 - Youtube video about Backtracking and NQueens problem in Java programing languages, in Hindi language.
+4 - Youtube video about Backtracking and NQueens problem in Java programing languages, in Hindi language. Shradha Khapra of Apna College. 
 
 https://www.youtube.com/watch?v=bRs6E_SL2Tk
 

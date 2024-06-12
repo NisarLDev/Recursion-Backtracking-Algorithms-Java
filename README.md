@@ -13,7 +13,7 @@ https://dev.to/nikhilesh2601/backtracking-in-java-3la0
 
 https://www.quora.com/What-is-a-backtracking-algorithm-in-Java
 
-3 - Youtube channel about Recursion and Backtracking in various programing languages, in Hindi language.
+3 - Youtube channel about Recursion and Backtracking in various programing languages, in Hindi language. Shashwat Tiwari (shashCode, @shashwat_tiwari_st).
 
 https://www.youtube.com/playlist?list=PLQ7ZAf76c0ZMzC9OHPbo-dUgx6oU3T0jK
 
@@ -80,3 +80,11 @@ https://backtobackswe.com/platform/content/the-backtracking-blueprint
 19 - Backtracking made easy | Algorithmic Paradigms | Real life example | Study Algorithms. Nikhil Lohia. Youtube.
   
   https://www.youtube.com/watch?v=51Zy1ULau1s
+  
+20 - Solve Coding Interview Backtracking Problems - Crash Course. FreeCodeCamp.
+
+  https://www.youtube.com/watch?v=A80YzvNwqXA
+
+21 - Recursion + Backtracking Course. Kunal Kushwaha.
+
+https://www.youtube.com/playlist?list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod

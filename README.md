@@ -76,3 +76,7 @@ https://jeffe.cs.illinois.edu/teaching/algorithms/book/02-backtracking.pdf
 18 - The Backtracking Blueprint
 
 https://backtobackswe.com/platform/content/the-backtracking-blueprint
+
+19 - Backtracking made easy | Algorithmic Paradigms | Real life example | Study Algorithms. Nikhil Lohia. Youtube.
+  
+  https://www.youtube.com/watch?v=51Zy1ULau1s

@@ -1,5 +1,7 @@
 ## Recursion Backtracking Algorithms Java
 
+Course of Udemy about advanced backtracking, permutation and recursion with Java.
+
 These types of algorithms are the basic elements of AI.
 
 

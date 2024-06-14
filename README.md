@@ -83,7 +83,7 @@ https://backtobackswe.com/platform/content/the-backtracking-blueprint
   
   https://www.youtube.com/watch?v=51Zy1ULau1s
   
-20 - Solve Coding Interview Backtracking Problems - Crash Course. FreeCodeCamp.
+20 - Solve Coding Interview Backtracking Problems - Crash Course. FreeCodeCamp. Youtube.
 
   https://www.youtube.com/watch?v=A80YzvNwqXA
 

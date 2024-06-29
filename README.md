@@ -75,7 +75,7 @@ https://javabypatel.blogspot.com/2017/07/n-queens-problem-in-java-backtracking.h
 
 https://jeffe.cs.illinois.edu/teaching/algorithms/book/02-backtracking.pdf
 
-18 - The Backtracking Blueprint
+18 - The Backtracking Blueprint.
 
 https://backtobackswe.com/platform/content/the-backtracking-blueprint
 
